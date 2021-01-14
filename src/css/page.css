@@ -1,0 +1,26 @@
+:root {
+    --darker: black;
+    --white: blue;
+    --background: rgb(24, 25, 26);
+    --card: rgb(36, 37, 38);
+    --filter-background: rgb(48, 47, 47);
+    --dark: rgb(58, 59, 60);
+    --light-dark: rgb(78, 79, 80);
+    --light-gray: #999999;
+    --disabled-background: rgb(102, 103, 104);
+    --primary-text: rgb(228, 230, 235);
+    --blue: rgb(166, 212, 250);
+    --fail: rgb(242, 151, 173);
+    --warning: rgb(246, 210, 30);
+    --bug: rgb(255, 175, 66);
+    --pass: rgb(87, 199, 170);
+    --maintenance: rgb(32, 201, 201);
+    --opacity: rgb(174, 176, 183);
+    --orange: rgb(244, 158, 147);
+    --ddl: hsl(0, 0%, 50%);
+    --border-radius: 1rem;
+    --font-14: 14px;
+    --font-12: 12px;
+    --font-11: 11px;
+    --font-10: 10px;
+}
